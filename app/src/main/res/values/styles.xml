@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TVLive" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/tv_bg</item>
+        <item name="android:textColor">@color/tv_text</item>
+        <item name="android:colorBackground">@color/tv_bg</item>
+    </style>
+</resources>
